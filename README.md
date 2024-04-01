@@ -1,6 +1,10 @@
-# MindMorph
-It is a dynamic interactive playground visually representing changes in neurochemical levels and brain health, offering users a gamified experience to understand the impact of their actions on cognitive function. Its basically for fun purpose, and no actual facts are aligned with the morphing, but I've added some educative element about brain anatomy.
-The project makes use of different Apple libraries such as SwiftUI, and SceneKit, for design and making of the models. This project focuses on Brain Care, and how different activities we do throughout the day impacts our overall brain Health.
+# MindMorph - WWDC24 Swift Student Challenge [Winner]
+
+##Summary
+It is a dynamic interactive playground visually representing changes in neurochemical levels and brain health, offering users a gamified experience to understand the impact of their actions on cognitive function. Its basically for fun purpose, and no actual facts are aligned with the morphing, but I've added some educative element about brain anatomy.The project makes use of different Apple libraries such as SwiftUI, and SceneKit, for design and making of the models. This project focuses on Brain Care, and how different activities we do throughout the day impacts our overall brain Health.
+
+##Motivation
+Just like we care about our physical appearances, our health and hygiene, I thought we should also care about our brain health, and how doing certain activities has an impact over it. Most of moods and reactions are due to the overall hormonal balance, and I just wanted to show how upsetting this balance will affect our brain, also how the brain health nourishes on performing healthy activities. 
 
 ## Screenshots
 ![Simulator Screenshot - iPad Pro (12 9-inch) (6th generation) - 2024-02-19 at 23 21 46](https://github.com/Decoy101/MindMorph/assets/82807218/bb5ba44c-66a5-427b-a00b-a2d2748229d5)
